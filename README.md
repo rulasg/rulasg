@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-*A father, an optimist, an idealist, an engineer, a bit of a philosopher, a strategist, passionate about understanding and learning from everyone.*
-
 - 🔭 I’m Raúl González
 - 🏠 I live in Madrid/Spain
 - 👨‍👧‍👦 I’m father of two incredible kids, Leo & Noa
