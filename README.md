@@ -1,4 +1,4 @@
-### Hi 👋, I'm Raúl
+### Hi 👋, I'm Raúl 
 [![Github](https://img.shields.io/github/followers/rulasg?label=Follow&style=social)](https://github.com/rulasg)
 
 - 🔭 I’m Raúl González
