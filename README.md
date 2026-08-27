@@ -9,6 +9,7 @@
 - 💪🏻 Passioned on what I do
 - 💬 Ask me about spanish culture, people, leadership, companies, technology
 - 🦜 I’m on Twiter https://twitter.com/rulasg
+- 👥 I'm on LinkedIn https://www.linkedin.com/in/rulasg/
 
 [![rulasg's GitHub stats](https://github-readme-stats.vercel.app/api?username=rulasg)](https://github.com/anuraghazra/github-readme-stats)
 
